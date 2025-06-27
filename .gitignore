@@ -1,0 +1,21 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Caches
+*.cache
+.cache/
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.env/
+ENV/
+env/
+.venv/
+
+# VS Code settings
+.vscode/
+
+# Mac system
